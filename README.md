@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, Im George
+I am a Durham University graduate with a masters in mathmatics, a strong interest in data analytics, statistical modelling, and using data to solve real world problems. My background includes my masters year final project consisting of hands-on work with the credit risk data at Atom Bank.
 
-<!--
-**GeorgeS-data/GeorgeS-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im currently building my data portfolio and actively seeking junior data analyst or data scientist roles - ideally remote or based in northern England.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages**: Phython, R, SQL
+- **Tools** Excel, Power BI, Google Colab, Spyder, RStudio, GitHub
+- **Concepts**: Data wrangling, statistical modeling, predictive analysis, dashboards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio Projects
+coming soon...
+
+## Get in Touch
+-[Email me](mailto:george.sleight1@sky.com)
+
+Thanks for visiting!
