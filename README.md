@@ -1,4 +1,4 @@
-# Hey, Im George
+# Hey, I'm George
 I am a Durham University graduate with a masters in mathmatics, a strong interest in data analytics, statistical modelling, and using data to solve real world problems. My background includes my masters year final project consisting of hands-on work with the credit risk data at Atom Bank.
 
 Im currently building my data portfolio and actively seeking junior data analyst or data scientist roles - ideally remote or based in northern England.
