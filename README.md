@@ -1,8 +1,9 @@
 # Hey, I'm George
 
-I'm a Durham University graduate with a master's in Mathematics and a strong interest in data analytics, statistical modelling, and solving real-world problems with data. My final-year project involved hands-on analysis of credit risk data from Atom Bank, where I developed and presented statistical models to support business decision-making.
+I’m a Durham University graduate with a Master’s in Mathematics (with Honours), passionate about using data to solve real-world problems. My final-year project involved hands-on credit risk analysis at Atom Bank, where I built statistical models and presented findings to senior credit risk managers.
 
-I'm currently building my data portfolio and actively seeking junior data analyst or data scientist roles — ideally remote or based in northern England.
+I’m currently growing my portfolio with projects in healthcare analytics and trading bot development, and I’m actively looking for junior data analyst or data scientist roles — ideally remote or in northern England.
+
 
 ---
 
@@ -15,8 +16,10 @@ I'm currently building my data portfolio and actively seeking junior data analys
 ---
 
 ## Portfolio Projects
+- **NHS Cancer Waiting Times Analysis:** Assessing the impact of Integrated Care Boards on wait times using Python and Power BI.  
+- **Multi-Strategy Trading Bot:** Developing a machine-learning-powered bot leveraging logistic regression and random forests.
 
-Coming soon — check back for dashboards, Python notebooks, and SQL analysis projects.
+
 
 ---
 
@@ -26,4 +29,4 @@ Coming soon — check back for dashboards, Python notebooks, and SQL analysis pr
 
 ---
 
-Thanks for visiting!
+Thanks for visiting! Feel free to get in touch if you have any questions, advice or opportunities!
