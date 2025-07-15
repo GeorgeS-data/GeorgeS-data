@@ -2,7 +2,7 @@
 
 I’m a Durham University graduate with a Master’s in Mathematics (with Honours), passionate about using data to solve real-world problems. My final-year project involved hands-on credit risk analysis at Atom Bank, where I built statistical models and presented findings to senior credit risk managers.
 
-I’m currently growing my portfolio with projects in healthcare analytics and trading bot development, and I’m actively looking for junior data analyst or data scientist roles — ideally remote or in northern England.
+I’m currently growing my portfolio with projects in healthcare analytics and trading bot development, and I’m actively looking for data analyst or data scientist roles — ideally remote or in northern England.
 
 
 ---
