@@ -16,8 +16,13 @@ I’m currently growing my portfolio with projects in healthcare analytics and t
 ---
 
 ## Portfolio Projects
-- **NHS Cancer Waiting Times Analysis:** Assessing the impact of Integrated Care Boards on wait times using Python and Power BI.  
-- **Multi-Strategy Trading Bot:** Developing a machine-learning-powered bot leveraging logistic regression and random forests.
+
+
+- [**NHS Cancer Treatment Wait Times Analysis:**](https://github.com/GeorgeS-data/nhs-cancer-treatment-analysis)
+Power BI dashboard analysing NHS cancer treatment wait times across ICBs (July 2021–2024). Visualises national trends, identifies top improving regions, and tracks changes post-ICB reform. Includes interactive dashboards, insights, and a full PDF report.
+
+- **Multi-Strategy Trading Bot:** 
+Developing a machine-learning-powered bot leveraging logistic regression and random forests.
 
 
 
