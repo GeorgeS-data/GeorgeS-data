@@ -21,8 +21,8 @@ I’m currently growing my portfolio with projects in healthcare analytics and t
 - [**NHS Cancer Treatment Wait Times Analysis:**](https://github.com/GeorgeS-data/nhs-cancer-treatment-analysis)
 Power BI dashboard analysing NHS cancer treatment wait times across ICBs (July 2021–2024). Visualises national trends, identifies top improving regions, and tracks changes post-ICB reform. Includes interactive dashboards, insights, and a full PDF report.
 
-- **Multi-Strategy Trading Bot:** 
-Developing a machine-learning-powered bot leveraging logistic regression and random forests.
+- [**Multi-Strategy Trading Bot:**](https://github.com/GeorgeS-data/Multi-Strategy_Cost-Aware_ML_Trading_Bot)
+Developing a cost-aware ML pipeline forecasting hourly equity returns using multiple technical indicators and tsfresh time-series features. Combines Logistic Regression, Random Forest, and XGBoost classifiers with penalty-optimized training and realistic backtesting versus buy-and-hold, focusing on minimizing costly misclassifications.
 
 
 
